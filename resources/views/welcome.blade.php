@@ -78,13 +78,13 @@
 							</li>
 					
 						
-							<li class="health"><a href="listing.html">ترفيه</a></li>
-								<li class="sports"><a href="listing-sports.html">علوم الحاسبات</a></li>
-							<li class="sports"><a href="listing-sports.html">علوم الرياضيات</a></li>
-							<li class="health"><a href="listing.html">علوم الجو</a></li>
-							<li class="health"><a href="listing.html">علوم الفيزياء</a></li>
-							<li class="health"><a href="listing.html">علوم كيمياء</a></li>
-								<li class="health"><a href="listing.html">علوم الحياه</a></li>
+
+								<li class="sports"><a href="show/1">علوم الحاسبات</a></li>
+							<li class="sports"><a href="show/2">علوم الرياضيات</a></li>
+							<li class="health"><a href="show/3">علوم الجو</a></li>
+							<li class="health"><a href="show/4">علوم الفيزياء</a></li>
+							<li class="health"><a href="show/5">علوم كيمياء</a></li>
+								<li class="health"><a href="show/6">علوم الحياه</a></li>
 							
 						
 						

@@ -422,8 +422,20 @@
                       <input type="text" class="form-control" name="descrptions" placeholder="وصف البحث">
                     </div>
                     <div class="col-sm-10">
-                      <label for="descrptions" class="col-sm-2 control-label">القسم</label>
-                      <input type="text" class="form-control" name="section" placeholder="القسم">
+                      <fieldset class="form-group">
+                        <label for="exampleSelect1">اختر القسم</label>
+                        <select class="form-control" name="section" >
+
+                          <option value="احياء">احياء</option>
+                          <option value="رياضيات">رياضيات</option>
+                          <option value="حاسوب">حاسوب</option>
+                          <option value="كيمياء">كيمياء</option>
+                          <option value="فيزياء">فيزياء</option>
+
+                        </select>
+                      </fieldset>
+
+
                     </div>
                   </div>
                   <div class="form-group">

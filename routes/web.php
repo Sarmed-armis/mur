@@ -13,4 +13,6 @@ Route::match(['get', 'post'],'profile','PorfileController@GetUserInfo');
 Route::post('research/add',"PorfileController@add");
 Route::get('/interface',"AproveResearchController@show");
 Route::get('/interface/aprrove/{id}',"AproveResearchController@approve");
+Route::get('show/{id}','FetchAndShow@index');
+
 

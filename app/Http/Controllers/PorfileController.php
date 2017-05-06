@@ -48,7 +48,8 @@ public function add(Add $reqest){
             "search_name"=>$reqest->input('inputName'),
             "search_file"=>$search_file,
             "search_image"=>$search_image,
-            "section"=>$reqest->input('section')
+            "section"=>$reqest->input('section'),
+            "code"=>rand(2000,3000),
     ]
     );
 return redirect()->back();
